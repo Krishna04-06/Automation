@@ -1,0 +1,9 @@
+03:44:52,853  INFO devpinoyLogger:34 ? Chrome lunch successfully
+03:44:59,398  INFO devpinoyLogger:16 ? Click on Login page Signup
+03:44:59,882  INFO devpinoyLogger:19 ? Click on Login
+03:45:04,074  INFO devpinoyLogger:22 ? Click on SignUp
+03:45:08,486  INFO devpinoyLogger:25 ? Enter Mobile No. to SignUp
+03:45:08,631  INFO devpinoyLogger:27 ? Click on Continue
+03:45:09,606  INFO devpinoyLogger:40 ? fill password
+03:45:13,752  INFO devpinoyLogger:43 ? Click on Login
+03:45:13,876  INFO devpinoyLogger:47 ? checking user name
